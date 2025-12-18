@@ -1,4 +1,4 @@
-## Proyecto de Trabajo de Fin de Master en Ciencia de Datos e Inteligencia de Negocio orientado a la preparacion y validacion de datos para Machine Learning.
+## Proyecto de Trabajo de Fin de Master en Ciencia de Datos e Inteligencia de Negocio 
 
 ## Flujo de trabajo
 El proyecto sigue un enfoque híbrido dividido en 3 fases, utilizando distintas herramientas según su fortaleza tecnica:
