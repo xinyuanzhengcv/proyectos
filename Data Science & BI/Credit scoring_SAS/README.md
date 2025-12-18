@@ -1,6 +1,6 @@
 # Credit Scoring – Telco (SAS Enterprise Miner)
 
-Proyecto académico de **Credit Scoring** desarrollado con SAS Enterprise Miner, orientado a la construcción y evaluación de modelos predictivos para estimar el riesgo de impago de clientes del sector telecomunicaciones.
+Proyecto de **Credit Scoring** desarrollado con SAS Enterprise Miner, orientado a la construcción y evaluación de modelos predictivos para estimar el riesgo de impago de clientes del sector telecomunicaciones.
 
 El trabajo se centra en el análisis del conjunto de datos, la preparación de variables y el desarrollo de distintos modelos de Machine Learning dentro del entorno gráfico de SAS Enterprise Miner. Se aplican técnicas de partición de datos, entrenamiento y validación de modelos, comparando su rendimiento mediante métricas estándar de clasificación.
 
