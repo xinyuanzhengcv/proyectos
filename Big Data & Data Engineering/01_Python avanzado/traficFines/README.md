@@ -38,4 +38,5 @@ traficFines/
 │   └── test_madridFines.py          # Tests del módulo madridFines.py
 │
 ├── README.md                        # Descripción del proyecto y guía de uso
+├── requirements.txt                 # Dependencias del entorno
 └── pyproject.toml                   # Configuración del paquete y dependencias
