@@ -7,12 +7,12 @@ Se destaca el uso de diferentes lenguaje de programacion para desarrollar al cab
 ## Python
 
 ### Proyectos incluidos
-- **Web Scraping (Fotocasa)** -> Extracción automatizada de anuncios inmobiliarios y almacenamiento en MySQL
-- **Sistema de Recomendación (MovieLens)** ---> Sistemas de recomendación con **SVD** y **TF-IDF**
-- **TFM** -> Preparación de datos mediante ETL y exploración de datos (EDA)
+- **Web Scraping (Fotocasa)** --> Extracción automatizada de anuncios inmobiliarios y almacenamiento en MySQL
+- **Sistema de Recomendación (MovieLens)** --> Sistemas de recomendación con **SVD** y **TF-IDF**
+- **TFM** --> Preparación de datos mediante ETL y exploración de datos (EDA)
 
 ### Librerías principales
-- Web scraping con `Selenium`, **BeautifulSoup**
+- Web scraping con `Selenium`, 'BeautifulSoup'
 - Análisis y ML: `pandas`, `numpy`, `scikit-learn`
 - Visualización: `matplotlib`, `seaborn`
 - Bases de datos: `sqlalchemy`, `mysql-connector`
