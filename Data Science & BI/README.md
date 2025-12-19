@@ -5,6 +5,7 @@ Se destaca el uso de diferentes lenguaje de programacion para desarrollar al cab
 
 ---
 ## Python
+
 ### Proyectos incluidos
 - **Web Scraping (Fotocasa)** --> Extracción automatizada de anuncios inmobiliarios y almacenamiento en MySQL
 - **Sistema de Recomendación (MovieLens)** --> Sistemas de recomendación con **SVD** y **TF-IDF**
@@ -48,5 +49,5 @@ Se destaca el uso de diferentes lenguaje de programacion para desarrollar al cab
 - **Power BI**: visualización y dashboards interactivos
 
 ---
-Cada proyecto contiene su propio README o documentación (notebooks o informes PDF) donde se detallan los objetivos, la metodología y los resultados obtenidos.
+Cada proyecto contiene su propio README y documentación (notebooks o informes PDF) donde se detallan los objetivos, la metodología y los resultados obtenidos.
 
