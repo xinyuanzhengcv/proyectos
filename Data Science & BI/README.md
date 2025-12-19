@@ -2,6 +2,7 @@
 
 Repositorio de proyectos desarrollados en el Máster en Ciencia de Datos e Inteligencia de Negocio. 
 Se destaca el uso de diferentes lenguaje de programacion para desarrollar al cabo los proyectos, asi como **Python**, **R** y **SAS**, incluyendo tareas de análisis de datos, Machine Learning, modelización estadística, Business Intelligence, etc.
+
 ---
 ## Python
 ### Proyectos incluidos
