@@ -18,7 +18,7 @@ El proyecto sigue un enfoque híbrido dividido en 3 fases, utilizando distintas 
    - Optimización de hiperparámetros (*hyperparameter tuning*)  
    - Validación cruzada y comparación de modelos  
 
-   Modelos utilizados incluyen regresión lineal y regularizada (lasso, ridge), Redes Neuronales, Random Forest, XGBoost, LightGBM y Support Vector Machines (lineal, polinómico y radial).
+   Modelos utilizados incluyen regresión lineal y regularizada (lasso, ridge), Redes Neuronales, Random Forest, XGBoost, LightGBM y Support Vector Regression (lineal, polinómico y radial).
 
 3. **SAS Enterprise Miner**  
    Se utiliza para contrastar y validar algunos de los modelos de Machine Learning, con el objetivo de afianzar los resultados obtenidos en el análisis realizado en R.
