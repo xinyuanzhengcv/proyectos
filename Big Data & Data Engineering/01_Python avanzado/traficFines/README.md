@@ -1,7 +1,7 @@
 
 # Proyecto: Trafico de Multas en Madrid
 
-Este proyecto implementa un paquete Python llamado **traficFines** que permite descargar, cachear y analizar los datos abiertos de multas de circulación del Ayuntamiento de Madrid.
+Este proyecto implementa un paquete Python llamado **`traficFines`** que permite descargar, cachear y analizar los datos abiertos de multas de circulación del Ayuntamiento de Madrid.
 
 
 ## Formato de trabajo 
@@ -38,3 +38,4 @@ traficFines/
 └── pyproject.toml                   # Configuración del paquete y dependencias
 
 ```
+
