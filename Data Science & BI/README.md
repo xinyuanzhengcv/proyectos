@@ -1,18 +1,18 @@
 # Data Science & Business Intelligence
 
 Repositorio de proyectos desarrollados en el Máster en Ciencia de Datos e Inteligencia de Negocio. 
-El contenido se organiza principalmente por **lenguaje y herramienta**, destacando **Python**, **R** y **SAS**, e incluye análisis de datos, Machine Learning, modelización estadística y Business Intelligence.
+Se destaca el uso de diferentes lenguaje de programacion para desarrollar al cabo los proyectos, asi como **Python**, **R** y **SAS**, incluyendo tareas de análisis de datos, Machine Learning, modelización estadística, Business Intelligence, etc.
 
 ---
 ## Python
 
 ### Proyectos incluidos
-- **Web Scraping Fotocasa** -> Extracción automatizada de anuncios inmobiliarios y almacenamiento en MySQL
-- **Sistema de Recomendación (MovieLens)**
+- **Web Scraping (Fotocasa)** -> Extracción automatizada de anuncios inmobiliarios y almacenamiento en MySQL
+- **Sistema de Recomendación (MovieLens)** ---> Sistemas de recomendación con **SVD** y **TF-IDF**
 - **TFM** -> Preparación de datos mediante ETL y exploración de datos (EDA)
 
 ### Librerías principales
-- Web scraping con **Selenium**, **BeautifulSoup**
+- Web scraping con `Selenium`, **BeautifulSoup**
 - Análisis y ML: `pandas`, `numpy`, `scikit-learn`
 - Visualización: `matplotlib`, `seaborn`
 - Bases de datos: `sqlalchemy`, `mysql-connector`
