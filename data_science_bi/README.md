@@ -30,7 +30,7 @@ Se destaca el uso de diferentes lenguaje de programacion para desarrollar al cab
 ### Modelos de Machine Learning
 - `Regresión lineal` y regularizada (`Ridge`, `Lasso`)
 - `Random Forest`, `XGBoost`, `LightGBM`
-- `Redes neuronales` y `SVM`
+- `Redes neuronales` y `SVR`
 
 ---
 ## SAS / SAS Enterprise Miner
