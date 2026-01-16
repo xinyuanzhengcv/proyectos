@@ -20,7 +20,7 @@ Este ejercicio intenta reforzar conceptos clave de ingeniería de datos y buenas
 ## Estructura del proyecto
 
 ```
-oop-etl-example/
+bde_scala_2025_2026/
 ├─ build.sbt
 ├─ project/
 │  ├─ plugins.sbt
