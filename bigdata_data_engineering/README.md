@@ -74,5 +74,5 @@ Proyectos orientados a **Big Data & Data Engineering**, con énfasis en:
 - Diseño de pipelines y arquitecturas de datos.  
 - Uso de múltiples lenguajes y tecnologías del ecosistema Big Data.
 
-Cada subproyecto incluye su propio README con detalles técnicos adicionales.
+Cada proyecto incluye su propio README con detalles técnicos adicionales.
 
